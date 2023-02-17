@@ -1,8 +1,6 @@
 #ifndef __CMD_GENERATOR_H_
 #define __CMD_GENERATOR_H_
 
-#include <iostream>
-
 #ifdef __cplusplus
 extern "C" {
 #endif
