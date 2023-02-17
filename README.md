@@ -7,7 +7,9 @@ Contact me on [iESLAB GyungMo Kim](mailto:7bvcxz@gmail.com) for more information
 ### 파일 위치
 fpga_runtime.c
 PIM_SS_CG 폴더
+
 └─ fpga_runtime.h
+
 └─ etc.
    
 ### fpga_runtime.c 수정 필요사항
